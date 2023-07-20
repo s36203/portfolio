@@ -2,10 +2,6 @@
 
 #### Technical Skills: Python, SQL, R, Alteryx, MATLAB, Azure
 
-## Education			       		
-- M.S., Applied Mathematics and Mechanical Engineering	|  Clemson University (Aug 2010) 			        		
-- B.Tech., Mechanical Engineering | JNTU (May 2007)
-
 ## Work Experience
 **Data Scientist @ Jones Lang LaSalle (_Oct 2020 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
