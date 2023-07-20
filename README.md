@@ -1,10 +1,10 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, Alteryx, MATLAB, Azure
 
 ## Education			       		
-- M.S., Applied Mathematics and Mechanical Engineering	|  Clemson University (_Aug_2010) 			        		
-- B.Tech., Mechanical Engineering | JNTU (_May_2007)
+- M.S., Applied Mathematics and Mechanical Engineering	|  Clemson University (Aug 2010) 			        		
+- B.Tech., Mechanical Engineering | JNTU (May 2007)
 
 ## Work Experience
 **Data Scientist @ Jones Lang LaSalle (_Oct 2020 - Present_)**
